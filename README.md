@@ -23,3 +23,7 @@ It is a graduation Project supported by the Egyptian Academy of Scientific Resea
 * [Documentations](https://github.com/MohamedRagaab/ELectric-Vehicle-Drive-System-ARM-Based-MC/tree/main/Documentations)
 * [Presntations](https://github.com/MohamedRagaab/ELectric-Vehicle-Drive-System-ARM-Based-MC/tree/main/Presentations)
 * [Refrences and Papers](https://github.com/MohamedRagaab/ELectric-Vehicle-Drive-System-ARM-Based-MC/tree/main/References%20and%20Papers)
+
+## License
+
+> This software is licensed under MIT License, See [License](https://github.com/MohamedRagaab/ELectric-Vehicle-Drive-System-ARM-Based-MC/blob/main/LICENSE) for more information ©MohamedRagab.
