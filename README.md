@@ -9,11 +9,11 @@ It is a graduation Project supported by the Egyptian Academy of Scientific Resea
 
 
 <hr/>
-<div align='center'>
+
 [![GitHub issues](https://img.shields.io/github/contributors/MohamedRagaab/ELectric-Vehicle-Drive-System-ARM-Based-MC)](https://github.com/MohamedRagaab/ELectric-Vehicle-Drive-System-ARM-Based-MC/contributors)
 [![GitHub issues](https://img.shields.io/github/issues/MohamedRagaab/ELectric-Vehicle-Drive-System-ARM-Based-MC)](https://github.com/MohamedRagaab/ELectric-Vehicle-Drive-System-ARM-Based-MC)
 [![GitHub stars](https://img.shields.io/github/stars/MohamedRagaab/ELectric-Vehicle-Drive-System-ARM-Based-MC)](https://github.com/MohamedRagaab/ELectric-Vehicle-Drive-System-ARM-Based-MC)
- </div>
+
  <hr/>
   
 ## Content
