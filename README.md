@@ -1,7 +1,7 @@
 # ELectric Vehicle Driver ARM Based
 
 <div align='center'>
-<img height="400px" src="https://user-images.githubusercontent.com/38363762/160945403-9356d60a-31d5-4852-b8f4-4246a0c8bf4d.png">
+<img height="500px" src="https://user-images.githubusercontent.com/38363762/160945403-9356d60a-31d5-4852-b8f4-4246a0c8bf4d.png">
 </div>
 <hr/>
 
@@ -25,8 +25,8 @@ It is a graduation Project supported by the Egyptian Academy of Scientific Resea
   * [Schematics of 3-Phase Inverter for BLDC Motor](https://github.com/MohamedRagaab/ELectric-Vehicle-Drive-System-ARM-Based-MC/tree/main/Hardware/Schematics) 
   * [Design Files on EasyEDA](https://github.com/MohamedRagaab/ELectric-Vehicle-Drive-System-ARM-Based-MC/tree/main/Hardware/Design%20Files%20on%20EasyEDA)
 * [Documentations](https://github.com/MohamedRagaab/ELectric-Vehicle-Drive-System-ARM-Based-MC/tree/main/Documentations)
-  *  
-* [Presntations](https://github.com/MohamedRagaab/ELectric-Vehicle-Drive-System-ARM-Based-MC/tree/main/Presentations)
+  * [Inverter Documentation](https://github.com/MohamedRagaab/ELectric-Vehicle-Drive-System-ARM-Based-MC/tree/main/Documentations)
+* [Presntations](https://github.com/MohamedRagaab/ELectric-Vehicle-Drive-System-ARM-Based-MC/tree/main/Presentations) 
 * [Refrences and Papers](https://github.com/MohamedRagaab/ELectric-Vehicle-Drive-System-ARM-Based-MC/tree/main/References%20and%20Papers)
 
 ## License
