@@ -9,10 +9,6 @@
 It is a graduation Project supported by the Egyptian Academy of Scientific Research and Valeo Egypt, and the objective of this project is to design and implement a low-cost and efficient electric drive system for an electric vehicle. This will be achieved through the local manufacturing of the propulsion system and protection module along with the three main modules: Maximum Power Point Tracker (MPPT), Battery Management System (BMS) and 3-phase inverter with its Embedded System and Programming. In addition, the main control unit of the system will be designed by several control Algorithms (Scaler Control V/F, Vector Control FOC) making it withstand different operating conditions such as: startingat heavy loads, obstacles in the road, and increasing the temperature of the battery during Charging or discharging, and energy recovery during braking(Regenerative Braking). In addition to making the electric vehicle eco-friendly by charging it with renewable energy through solar panels.
 
 <hr/>
-<div align='center'>
-<img height="500px" src="https://user-images.githubusercontent.com/38363762/161137977-457fe7e1-4801-4f28-b55f-5417bbccae71.png">
-</div>
-<hr/>
 
 
 
@@ -35,6 +31,10 @@ It is a graduation Project supported by the Egyptian Academy of Scientific Resea
 * [Presntations](https://github.com/MohamedRagaab/ELectric-Vehicle-Drive-System-ARM-Based-MC/tree/main/Presentations) 
 * [Refrences and Papers](https://github.com/MohamedRagaab/ELectric-Vehicle-Drive-System-ARM-Based-MC/tree/main/References%20and%20Papers)
 
+<hr/>
+<div align='center'>
+<img height="500px" src="https://user-images.githubusercontent.com/38363762/161137977-457fe7e1-4801-4f28-b55f-5417bbccae71.png">
+</div>
 ## License
 
 > This software is licensed under MIT License, See [License](https://github.com/MohamedRagaab/ELectric-Vehicle-Drive-System-ARM-Based-MC/blob/main/LICENSE) for more information ©MohamedRagab.
