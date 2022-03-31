@@ -29,7 +29,7 @@ It is a graduation Project supported by the Egyptian Academy of Scientific Resea
   * [MATLAB Simulations](https://github.com/MohamedRagaab/ELectric-Vehicle-Drive-System-ARM-Based-MC/tree/main/Software/MATLAB%20Simulation)
 * [Hardware](https://github.com/MohamedRagaab/ELectric-Vehicle-Drive-System-ARM-Based-MC/tree/main/Hardware)
   * [Schematics of 3-Phase Inverter for BLDC Motor](https://github.com/MohamedRagaab/ELectric-Vehicle-Drive-System-ARM-Based-MC/tree/main/Hardware/Schematics) 
-  * [Design Files on EasyEDA](https://github.com/MohamedRagaab/ELectric-Vehicle-Drive-System-ARM-Based-MC/tree/main/Hardware/Design%20Files%20on%20EasyEDA)
+  * [PCB Design Files](https://github.com/MohamedRagaab/ELectric-Vehicle-Drive-System-ARM-Based-MC/tree/main/Hardware/Design%20Files%20on%20EasyEDA)
 * [Documentations](https://github.com/MohamedRagaab/ELectric-Vehicle-Drive-System-ARM-Based-MC/tree/main/Documentations)
   * [Inverter Documentation](https://github.com/MohamedRagaab/ELectric-Vehicle-Drive-System-ARM-Based-MC/tree/main/Documentations)
 * [Presntations](https://github.com/MohamedRagaab/ELectric-Vehicle-Drive-System-ARM-Based-MC/tree/main/Presentations) 
